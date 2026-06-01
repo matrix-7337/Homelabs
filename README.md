@@ -1,13 +1,14 @@
 # 🐇  Homelab Portfolio
 <img src="Pixel Art 8Bit GIF by pixel jeff(1).gif" width=300 height="170" align="left">
 
-<pre>
-Central index of all cybersecurity 
-homelabs focused on defensive security, 
- monitoring, system administration,
- and security operations.
-</pre>
----
+ ```csharp
+Central index of all cybersecurity homelabs focused on defensive security, 
+monitoring, system administration,and security operations.
+```
+
+
+<br>
+<br>
 <br>
 
 ## 🧪 Lab Index
